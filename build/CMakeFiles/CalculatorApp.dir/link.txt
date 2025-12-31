@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\CalculatorApp.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\CalculatorApp.dir/objects.a @CMakeFiles\CalculatorApp.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\CalculatorApp.dir/objects.a -Wl,--no-whole-archive -o CalculatorApp.exe -Wl,--out-implib,libCalculatorApp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CalculatorApp.dir\linkLibs.rsp
