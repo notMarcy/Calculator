@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/BSU/Calculator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CalculatorApp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CalculatorApp.dir\\src\\Calculator.cpp.obj -c D:\\BSU\\Calculator\\src\\Calculator.cpp",
+  "file": "D:/BSU/Calculator/src/Calculator.cpp",
+  "output": "CMakeFiles/CalculatorApp.dir/src/Calculator.cpp.obj"
+},
+{
+  "directory": "D:/BSU/Calculator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CalculatorApp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CalculatorApp.dir\\src\\Command.cpp.obj -c D:\\BSU\\Calculator\\src\\Command.cpp",
+  "file": "D:/BSU/Calculator/src/Command.cpp",
+  "output": "CMakeFiles/CalculatorApp.dir/src/Command.cpp.obj"
+},
+{
+  "directory": "D:/BSU/Calculator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CalculatorApp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CalculatorApp.dir\\src\\Modes.cpp.obj -c D:\\BSU\\Calculator\\src\\Modes.cpp",
+  "file": "D:/BSU/Calculator/src/Modes.cpp",
+  "output": "CMakeFiles/CalculatorApp.dir/src/Modes.cpp.obj"
+},
+{
+  "directory": "D:/BSU/Calculator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CalculatorApp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CalculatorApp.dir\\src\\Utils.cpp.obj -c D:\\BSU\\Calculator\\src\\Utils.cpp",
+  "file": "D:/BSU/Calculator/src/Utils.cpp",
+  "output": "CMakeFiles/CalculatorApp.dir/src/Utils.cpp.obj"
+},
+{
+  "directory": "D:/BSU/Calculator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CalculatorApp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CalculatorApp.dir\\src\\main.cpp.obj -c D:\\BSU\\Calculator\\src\\main.cpp",
+  "file": "D:/BSU/Calculator/src/main.cpp",
+  "output": "CMakeFiles/CalculatorApp.dir/src/main.cpp.obj"
+}
+]

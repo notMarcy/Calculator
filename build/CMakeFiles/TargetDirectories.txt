@@ -1,0 +1,3 @@
+D:/BSU/Calculator/build/CMakeFiles/CalculatorApp.dir
+D:/BSU/Calculator/build/CMakeFiles/edit_cache.dir
+D:/BSU/Calculator/build/CMakeFiles/rebuild_cache.dir
